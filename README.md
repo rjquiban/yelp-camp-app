@@ -1,2 +1,2 @@
 # yelp-camp-app
-Fake webpage (based on Yelp) for campsites!
+Mock Yelp web app for campsites!
