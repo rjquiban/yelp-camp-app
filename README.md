@@ -1,2 +1,2 @@
 # yelp-camp-app
-Mock Yelp web app for campsites!
+Mock Yelp web app for campsites
